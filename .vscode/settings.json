@@ -1,0 +1,20 @@
+{
+  "cSpell.words": [
+    "adduser",
+    "appuser",
+    "fastapi",
+    "gecos",
+    "healthcheck",
+    "isready",
+    "myapp",
+    "myregistry",
+    "nologin",
+    "pycache",
+    "PYTHONDONTWRITEBYTECODE",
+    "PYTHONUNBUFFERED",
+    "rembg",
+    "toolstarget",
+    "uvicorn",
+    "venv"
+  ]
+}
