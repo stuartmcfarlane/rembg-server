@@ -10,6 +10,7 @@
     "myapp",
     "myregistry",
     "nologin",
+    "onnxruntime",
     "pycache",
     "PYTHONDONTWRITEBYTECODE",
     "PYTHONUNBUFFERED",
